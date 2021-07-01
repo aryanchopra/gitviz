@@ -1,4 +1,4 @@
-A web application to :mag: view a github's user profile in a more simple and beautiful way.
+A web application to view a github user's statistics in an aesthetic way.
 
 ## :man_technologist: Technology Stack
 
