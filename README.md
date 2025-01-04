@@ -1,6 +1,6 @@
 A web application to view a github user's statistics in an aesthetic way.
 
-## :man_technologist: Technology Stack
+
 
 - [React](https://reactjs.org/)
 - [styled-components](https://styled-components.com/)
